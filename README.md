@@ -16,7 +16,24 @@
 
 
 OVERVIEW OF THE PROJECT:
-Motion Detection Security System is a smart surveillance solution designed to monitor an area, detect any movement, capture evidence (like images or video), and alert the user in real-time. This type of system is commonly used for home, office, or restricted area security.
+IoT-based Air Quality Monitoring System is a smart device designed to continuously monitor environmental air parameters and provide real-time data through internet connectivity. These systems are especially useful in urban areas, industrial zones, and smart cities to track pollution levels and take preventive actions.
+
+
+Working Principle
+
+1. Sensors collect air quality and environmental data.
+
+
+2. Microcontroller reads and processes the data.
+
+
+3. Data is transmitted via Wi-Fi to an online platform.
+
+
+4. Users can view the data on a mobile app or dashboard.
+
+
+5. Alerts or actions (e.g., turning on a purifier) can be automated.
 
 
 COMPONENTS:
