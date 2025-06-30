@@ -1,10 +1,19 @@
 # CODTECH-task4
 
 "NAME" : LINGAM SREE KEERTHI
+
+
 "COMPANY" : CODTECH IT SOLUTIONS
-"PROJECT BASED ON" : IOT
+
+
+"PROJECT BASED ON" : IOT  
+
+
 "ID" : CT04DF1246
+
+
 "PROJECT MENTOR" : NEELA SANTOSH
+
 
 OVERVIEW OF THE PROJECT:
 Motion Detection Security System is a smart surveillance solution designed to monitor an area, detect any movement, capture evidence (like images or video), and alert the user in real-time. This type of system is commonly used for home, office, or restricted area security.
